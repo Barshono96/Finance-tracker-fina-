@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": "22e4",
+      "name": "Barshon",
+      "email": "B@gmail.com",
+      "password": "12"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "a986",
+      "category": "Salary",
+      "amount": 15000,
+      "date": "2024-11-06",
+      "description": "I got my salary",
+      "transactionType": "Income",
+      "userId": "22e4"
+    },
+    {
+      "id": "53a7",
+      "category": "Business",
+      "amount": 10000,
+      "date": "2024-11-05",
+      "description": "I got my business profit",
+      "transactionType": "Income",
+      "userId": "22e4"
+    },
+    {
+      "id": "3e4a",
+      "category": "Rent",
+      "amount": 8000,
+      "date": "2024-11-06",
+      "description": "Home Rent",
+      "transactionType": "Expenses",
+      "userId": "22e4"
+    },
+    {
+      "id": "0b38",
+      "category": "Food",
+      "amount": 5000,
+      "date": "2024-11-06",
+      "description": "buying food",
+      "transactionType": "Expenses",
+      "userId": "22e4"
+    },
+    {
+      "id": "6cee",
+      "category": "Groceries",
+      "amount": 5000,
+      "date": "2024-11-05",
+      "description": "For Groceries",
+      "transactionType": "Expenses",
+      "userId": "22e4"
+    },
+    {
+      "id": "36b1",
+      "category": "Transportation",
+      "amount": 500,
+      "date": "2024-11-06",
+      "description": "fgjhfdrkgnfd",
+      "transactionType": "Expenses",
+      "userId": "22e4"
+    }
+  ],
+  "budgets": [
+    {
+      "id": "0382",
+      "category": "Food",
+      "amount": 10000,
+      "userId": "22e4"
+    },
+    {
+      "id": "1d21",
+      "category": "Rent",
+      "amount": 11000,
+      "userId": "22e4"
+    },
+    {
+      "id": "d440",
+      "category": "Groceries",
+      "amount": 4000,
+      "userId": "22e4"
+    },
+    {
+      "id": "f10b",
+      "category": "Transportation",
+      "amount": 1000,
+      "userId": "22e4"
+    }
+  ],
+  "goals": [
+    {
+      "id": "c1e9",
+      "goalCategory": "Tour",
+      "amount": 6000,
+      "savings": "",
+      "description": "Interested for sajek tour.",
+      "userId": "22e4"
+    },
+    {
+      "id": "34b8",
+      "goalCategory": "Racket Bat",
+      "amount": 5000,
+      "savings": "",
+      "description": "Buy a racket Bat",
+      "userId": "22e4"
+    },
+    {
+      "id": "e382",
+      "goalCategory": "Buy something",
+      "amount": 3000,
+      "savings": "",
+      "description": "buy a Pen",
+      "userId": "22e4"
+    }
+  ]
+}
